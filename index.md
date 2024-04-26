@@ -9,3 +9,7 @@ x = 'Hello'
 y = 'World'
 print(x +' '+ y)
 ```
+
+- [ ] Apples
+- [ ] Oranges
+- [ ] Grapes
